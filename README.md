@@ -1,2 +1,5 @@
 # anjianyanzheng
-验证码及更新文件
+
+allow=12345
+
+verification and update channel for game_skill_assistant
