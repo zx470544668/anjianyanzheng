@@ -1,0 +1,11 @@
+{
+    "version":  "2026.03.17.2",
+    "url":  "https://raw.githubusercontent.com/zx470544668/anjianyanzheng/main/release/hot_update_20260317_2.zip",
+    "full_urls":  [
+                      "https://raw.githubusercontent.com/zx470544668/anjianyanzheng/main/release/patch_20260317_2.part01",
+                      "https://raw.githubusercontent.com/zx470544668/anjianyanzheng/main/release/patch_20260317_2.part02",
+                      "https://raw.githubusercontent.com/zx470544668/anjianyanzheng/main/release/patch_20260317_2.part03",
+                      "https://raw.githubusercontent.com/zx470544668/anjianyanzheng/main/release/patch_20260317_2.part04"
+                  ],
+    "notes":  "build: encrypted release refresh and updater sync"
+}
