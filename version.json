@@ -1,11 +1,11 @@
-{
-    "version": "2026.03.20.1",
-    "url": "https://raw.githubusercontent.com/zx470544668/anjianyanzheng/main/release/hot_update_20260320_1.zip",
-    "full_urls": [
-        "https://raw.githubusercontent.com/zx470544668/anjianyanzheng/main/release/patch_20260320_1.part01",
-        "https://raw.githubusercontent.com/zx470544668/anjianyanzheng/main/release/patch_20260320_1.part02",
-        "https://raw.githubusercontent.com/zx470544668/anjianyanzheng/main/release/patch_20260320_1.part03",
-        "https://raw.githubusercontent.com/zx470544668/anjianyanzheng/main/release/patch_20260320_1.part04"
-    ],
-    "notes": "build: current workspace snapshot and release sync"
+﻿{
+    "version":  "2026.03.22.4",
+    "url":  "https://raw.githubusercontent.com/zx470544668/anjianyanzheng/main/release/hot_update_20260322_4.zip",
+    "full_urls":  [
+                      "https://raw.githubusercontent.com/zx470544668/anjianyanzheng/main/release/patch_20260322_3.part01",
+                      "https://raw.githubusercontent.com/zx470544668/anjianyanzheng/main/release/patch_20260322_3.part02",
+                      "https://raw.githubusercontent.com/zx470544668/anjianyanzheng/main/release/patch_20260322_3.part03",
+                      "https://raw.githubusercontent.com/zx470544668/anjianyanzheng/main/release/patch_20260322_3.part04"
+                  ],
+    "notes":  "build: hot update now ships pyc only; full package unchanged"
 }
